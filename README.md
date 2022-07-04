@@ -1,5 +1,5 @@
 # unit19_homework
 
-![](images/ash.JPG)
-![](images/account.JPG)
-![](images/transact.JPG)
+![](Images/ash.JPG)
+![](Images/account.JPG)
+![](Images/transact.JPG)
